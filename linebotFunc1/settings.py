@@ -27,7 +27,7 @@ LINE_CHANNEL_SECRET = '9e68e60508fdff6d3a74fca444fdcbc4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
